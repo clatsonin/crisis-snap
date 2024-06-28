@@ -69,7 +69,7 @@ RAPIDAPI_KEY="your_rapidapi_key_here"
 streamlit run app.py
 ```
 ## Contributers
-[Rahul Shanmugam S](https://github.com/rahulgoat)
+[Rahul Shanmugam S  ](https://github.com/rahulgoat)
 [Clatson J](https://github.com/clatsonin)
 
 
