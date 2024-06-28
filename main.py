@@ -70,7 +70,7 @@ chat_session = model.start_chat(history=[])
 st.set_page_config(page_title="Crisis Snap📷")
 
 st.header("Crisis Snap📷")
-st.subheader("Helpful Tool")
+st.subheader("Real-time emergency response platform")
 
 # Create two columns with centered alignment
 col1, col2 = st.columns([1, 1])
