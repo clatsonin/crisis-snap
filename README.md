@@ -32,37 +32,42 @@ Empowerment: By providing timely and relevant assistance, Crisis Snap bot empowe
 
 ### 1. Clone the Repository
 
-
+```bash
 git clone https://github.com/clatsonin/crisis-snap
 cd crisis-snap
-
+```
 ### 2. Set-up a virtual environment:
-
+```bash
 python3 -m venv env
-
+```
 ### 3. Activate the Virtual Environment:
 
 On macOS and Linux:
+```bash
 source env/bin/activate
-
+```
 On Windows:
+```bash
 .\env\Scripts\activate
-
+```
 ### 4. Install Dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 ### 5. Set Up Environment Variables:
 
 Create a .env file in the root directory of the project and add your Google API key:
 
+```bash
 GENAI_API_KEY="your_google_api_key_here"
 RAPIDAPI_KEY="your_rapidapi_key_here"
+```
 
 ### 6. Run the Streamlit App:
-
+```bash
 streamlit run app.py
-
+```
 ## Contributers
 [Rahul Shanmugam S](https://github.com/rahulgoat)
 [Clatson J](https://github.com/clatsonin)
